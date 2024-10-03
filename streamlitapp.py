@@ -7,7 +7,7 @@ import pyodbc
 
 def fetch_data(sql):
     # Datos de conexión a SQL Server
-    host = '13.67.133.149'
+    host = '13.89.26.227'
     database = 'Demo'  # Reemplaza con el nombre de tu base de datos
     user = 'streamlit'
     password = 'uhispano2024#'
